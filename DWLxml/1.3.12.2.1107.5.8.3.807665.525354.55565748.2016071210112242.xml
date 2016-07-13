@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><dicom>
+<attr tag="00080005" vr="CS" len="10">ISO_IR 100</attr>
+<attr tag="00080050" vr="SH" len="10">139317993</attr>
+<attr tag="00080090" vr="PN" len="20">CRAIG, MARIA ELOISE</attr>
+<attr tag="00100010" vr="PN" len="20">DEAN^ZEENAT FIRDOUS</attr>
+<attr tag="00100020" vr="LO" len="12">1568-0931440</attr>
+<attr tag="00100030" vr="DA" len="8">20011103</attr>
+<attr tag="00100040" vr="CS" len="2">F</attr>
+<attr tag="00101020" vr="DS" len="0"/>
+<attr tag="00101030" vr="DS" len="0"/>
+<attr tag="00102000" vr="LO" len="0"/>
+<attr tag="00102110" vr="LO" len="0"/>
+<attr tag="001021C0" vr="US" len="2">4</attr>
+<attr tag="0020000D" vr="UI" len="60">1.3.12.2.1107.5.8.3.807665.525354.55565748.2016071210112242</attr>
+<attr tag="00321032" vr="PN" len="0"/>
+<attr tag="00321033" vr="LO" len="0"/>
+<attr tag="00321060" vr="LO" len="12">NM I-123 CT</attr>
+<attr tag="00321064" vr="SQ" len="-1">
+<item/>
+</attr>
+<attr tag="00380010" vr="LO" len="8">2845259</attr>
+<attr tag="00380050" vr="LO" len="0"/>
+<attr tag="00380300" vr="LO" len="26">Medical Imaging Department</attr>
+<attr tag="00380500" vr="LO" len="0"/>
+<attr tag="00400100" vr="SQ" len="-1">
+<item>
+<attr tag="00080060" vr="CS" len="2">NM</attr>
+<attr tag="00321070" vr="LO" len="0"/>
+<attr tag="00400001" vr="AE" len="8">PRODIGY</attr>
+<attr tag="00400002" vr="DA" len="8">20160713</attr>
+<attr tag="00400003" vr="TM" len="10">103000.000</attr>
+<attr tag="00400006" vr="PN" len="0"/>
+<attr tag="00400007" vr="LO" len="10">nm.i123.ct</attr>
+<attr tag="00400008" vr="SQ" len="-1">
+<item/>
+</attr>
+<attr tag="00400009" vr="SH" len="16">PLA4567000828413</attr>
+<attr tag="00400010" vr="SH" len="14">GE Lunar DEXA</attr>
+<attr tag="00400011" vr="SH" len="8">52XR047</attr>
+<attr tag="00400012" vr="LO" len="0"/>
+<attr tag="00400020" vr="CS" len="0"/>
+</item>
+</attr>
+<attr tag="00401001" vr="SH" len="10">139317993</attr>
+<attr tag="00401002" vr="LO" len="64">CLINICAL NOTES;PTC- managed with thyroidectomy May 2015 RAI  ...</attr>
+<attr tag="00401003" vr="SH" len="8">ROUTINE</attr>
+<attr tag="00401004" vr="LO" len="0"/>
+<attr tag="00402016" vr="LO" len="0"/>
+<attr tag="00402017" vr="LO" len="0"/>
+<attr tag="00403001" vr="LO" len="0"/>
+</dicom>
